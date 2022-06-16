@@ -1,2 +1,2 @@
-## desafio_tqi
+## desafio DIO
 Repositório de desafio sobre projeto github Dio
